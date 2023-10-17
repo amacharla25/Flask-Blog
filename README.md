@@ -1,2 +1,2 @@
 # Flask-Blog
-Author : Anil Macharla NATH
+Author : Anil Macharla (NATH)
